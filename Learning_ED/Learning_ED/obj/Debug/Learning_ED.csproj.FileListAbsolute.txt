@@ -1,0 +1,9 @@
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\bin\Debug\Learning_ED.exe.config
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\bin\Debug\Learning_ED.exe
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\bin\Debug\Learning_ED.pdb
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\obj\Debug\Learning_ED.csprojResolveAssemblyReference.cache
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\obj\Debug\Learning_ED.Form1.resources
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\obj\Debug\Learning_ED.Properties.Resources.resources
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\obj\Debug\Learning_ED.csproj.GenerateResource.Cache
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\obj\Debug\Learning_ED.exe
+G:\praktyka\Ш_Д\Learning_ED\Learning_ED\obj\Debug\Learning_ED.pdb
